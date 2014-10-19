@@ -1,0 +1,4 @@
+slickslider
+===========
+
+Angularjs slick slider
